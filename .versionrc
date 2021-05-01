@@ -1,0 +1,16 @@
+{
+  "header": "# Changelog\n\nTodas as mudanças notáveis serão listadas aqui.",
+  "types": [
+    {"type": "chore", "section":"Outros", "hidden": false},
+    {"type": "revert", "section":"Regressões", "hidden": false},
+    {"type": "feat", "section": "Features", "hidden": false},
+    {"type": "fix", "section": "Bugs Arrumados", "hidden": false},
+    {"type": "improvement", "section": "Feature Improvements", "hidden": false},
+    {"type": "docs", "section":"Documentação", "hidden": false},
+    {"type": "style", "section":"Estilos", "hidden": false},
+    {"type": "refactor", "section":"Refatoração do código", "hidden": false},
+    {"type": "perf", "section":"Melhoria na Performance", "hidden": false},
+    {"type": "test", "section":"Testes", "hidden": false},
+    {"type": "WIP", "section":"Trabalho em Progresso (Work in progress)", "hidden": false}
+  ]
+}
