@@ -1,0 +1,11 @@
+{
+  "name": "como-usar-commitizen",
+  "version": "1.0.0",
+  "description": "Projeto usado em um artigo do meu blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinícius Martins",
+  "license": "MIT"
+}
